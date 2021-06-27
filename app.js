@@ -13,3 +13,5 @@ fs.writeFile('./text2.txt', data2, (err) => {
 });
 console.log("end");
 console.log("Rp is my man");
+
+//npm install and npm uninstall are the things 
